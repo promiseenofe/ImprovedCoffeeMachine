@@ -65,7 +65,8 @@ Exception Handling - Robust error management
 
     Database transactions for data integrity
 
-#How to Run the Enhanced Version
+# How to Run the Enhanced Version
+
 Add SQLite JDBC driver 
 
 Ensure you have JavaFX set up in your development environment
@@ -87,3 +88,6 @@ Hopefully showed my ability to:
 -Implement business logic
 
 -Handle edge cases and errors
+
+![coffeeawslogo](https://github.com/user-attachments/assets/e0dad8b0-60c0-499d-a46e-7a471abd498f)
+
